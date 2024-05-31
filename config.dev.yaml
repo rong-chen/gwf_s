@@ -1,0 +1,7 @@
+mysql:
+  database: gwf
+server:
+  host: 47.120.34.163
+  port: 3306
+  username: root
+  password: 130561Cr
